@@ -1,7 +1,7 @@
 # Informe-Tarea-1
 Informe del deber uno
 
-Universidad de las Fuerzas Armadas "ESPE"
+# Universidad de las Fuerzas Armadas "ESPE"
 
 Fundamentos de Circuitos Electricos
 
