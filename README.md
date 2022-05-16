@@ -52,6 +52,8 @@ CAPITULO2
 
 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+CAPITULO1
+
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER1.png)
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER2.png)
@@ -71,6 +73,8 @@ CAPITULO2
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER9.png)
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER10.png)
+
+CAPITULO2
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER11.png)
 
