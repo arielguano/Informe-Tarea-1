@@ -47,3 +47,6 @@ CAPITULO1
 CAPITULO2
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/CAPITULO2.jpeg)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/Imagen6.png)
+
