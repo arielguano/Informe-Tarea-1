@@ -44,4 +44,6 @@ CAPITULO1
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/Imagen5.png)
 
+CAPITULO2
+
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/CAPITULO2.jpeg)
