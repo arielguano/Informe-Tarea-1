@@ -50,3 +50,14 @@ CAPITULO2
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/Imagen6.png)
 
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER1.png)
+
+
+
+
+
+
+
+
