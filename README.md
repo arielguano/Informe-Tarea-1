@@ -103,3 +103,7 @@ https://www.youtube.com/watch?v=AQRPjag5CKI
 • Se concluyo que  no todos los materiales tienen la misma capacidad de movimiento de carga, que existen tres grandes clasificaciones que son conductores, semiconductores y aislantes y dependiendo de los que necesitemos podemos usar cualquiera de estos.
 
 •El multimetro es importante a la hora de encontrar valores como corriente resistencia y amperaje sin embargo es necesario saber como se conecta ya que al no hacerlo correctamente puede dañar nuestro multimetro.
+
+# 6.BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
