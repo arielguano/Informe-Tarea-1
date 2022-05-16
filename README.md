@@ -54,10 +54,36 @@ CAPITULO2
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER1.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER2.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER3.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER4.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER5.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER6.png)
 
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER7.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER8.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER9.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER10.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER11.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER12.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER13.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER14.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER15.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER16.png)
+
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER17.png)
 
 
