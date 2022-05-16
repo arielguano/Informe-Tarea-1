@@ -38,6 +38,7 @@ Específicos:
 • Aprender a usar el multimetro correctamente a la hora de medir voltaje corriente y resistencia.
 
 # MARCO TEÓRICO (RESUMEN)
-
+CAPITULO1
+![](https://github.com/arielguano/Informe-Tarea-1/blob/main/Capitulo1.pdf)
 
 
