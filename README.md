@@ -74,7 +74,7 @@ CAPITULO1
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER10.png)
 
-CAPITULO2
+# CAPITULO2
 
 ![](https://github.com/arielguano/Informe-Tarea-1/blob/main/DESAROLLOEJER11.png)
 
@@ -92,10 +92,14 @@ CAPITULO2
 
 # 4.VIDEO
 
+https://www.youtube.com/watch?v=AQRPjag5CKI
+
 # 5.CONCLUSIONES
 
 • Al realizar los ejercicios propuestos se llegó a la conclusión de que existen varias unidades de medida en el SI y todas guardan una relación entre si permitiéndonos de esta manera realizar conversiones para obtener resultados en diferentes Unidades de medida según necesitemos.
 
-• Me di  cuenta que en electrónica existen valores que varían mucho en tamaño y para una mejor comodidad de lectura y organización es mejor transfórmalos a notación de potencias de diez.
+• Observamos que en electrónica existen valores que varían mucho en tamaño y para una mejor comodidad de lectura y organización es mejor transfórmalos a notación de potencias de diez.
 
-• Aprendi que no todos los materiales tienen la misma capacidad de movimiento de carga, que existen tres grandes clasificaciones que son conductores, semiconductores y aislantes y dependiendo de los que necesitemos podemos usar cualquiera de estos
+• Se concluyo que  no todos los materiales tienen la misma capacidad de movimiento de carga, que existen tres grandes clasificaciones que son conductores, semiconductores y aislantes y dependiendo de los que necesitemos podemos usar cualquiera de estos.
+
+•El multimetro es importante a la hora de encontrar valores como corriente resistencia y amperaje sin embargo es necesario saber como se conecta ya que al no hacerlo correctamente puede dañar nuestro multimetro.
