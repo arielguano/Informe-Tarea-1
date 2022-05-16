@@ -39,6 +39,7 @@ Específicos:
 
 # MARCO TEÓRICO (RESUMEN)
 CAPITULO1
-![](https://github.com/arielguano/Informe-Tarea-1/blob/main/Imagen3.png)
+
+![]()
 
 
